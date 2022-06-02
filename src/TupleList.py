@@ -1,11 +1,11 @@
 # hausaufgabe 7.1
-yeas_list = [1983, 1984, 1985, 1986, 1987, 1988]
+years_list = [1983, 1984, 1985, 1986, 1987, 1988]
 
 # hausaufgabe 7.2
-print(yeas_list[3])
+print(years_list[3])
 
 # hausaufgabe 7.3
-print(yeas_list[-1])
+print(years_list[-1])
 
 # hausaufgabe 7.4
 things = ['mozzarella', 'cinderella', 'salmonella']
